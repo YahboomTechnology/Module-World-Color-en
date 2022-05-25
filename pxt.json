@@ -1,5 +1,5 @@
 {
-    "name": "Module_World_Color",
+    "name": "Module-World-Colour",
     "version": "0.0.1",
     "description": "Extension for YahBoom YB_Module-World V0.0.1",
     "license": "MIT",
@@ -10,9 +10,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
-        "_locales/zh-cn/Module_World_Color-strings.json",
-        "_locales/zh-tw/Module_World_Color-strings.json"
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
